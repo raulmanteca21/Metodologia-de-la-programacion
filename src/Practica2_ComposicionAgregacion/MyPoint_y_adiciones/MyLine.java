@@ -35,7 +35,7 @@ public class MyLine {
         begin.setX(x);
     }
     public int getBeginY(){
-        return begin.getX();
+        return begin.getY();
     }
     public void setBeginY(int y){
         begin.setY(y);
