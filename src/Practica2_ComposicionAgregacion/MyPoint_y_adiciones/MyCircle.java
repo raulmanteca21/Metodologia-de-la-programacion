@@ -5,10 +5,8 @@ public class MyCircle {
     private int radius=1;
     //----------------------------------------------
     //constructores
-    public MyCircle(){
-        this.center=new MyPoint(0,0);
-        this.radius=1;
-    }
+    public MyCircle(){}
+
     public MyCircle(int x, int y, int radius){
         this.center=new MyPoint(x, y);
         this.radius=radius;
