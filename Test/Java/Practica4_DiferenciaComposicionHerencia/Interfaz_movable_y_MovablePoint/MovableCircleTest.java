@@ -4,13 +4,25 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class TestMovablePointTest {
+class MovableCircleTest {
 
     @Test
-    void main() {
+    void testToString() {
     }
 
     @Test
-    void testMain() {
+    void moveUp() {
+    }
+
+    @Test
+    void moveDown() {
+    }
+
+    @Test
+    void moveLeft() {
+    }
+
+    @Test
+    void moveRight() {
     }
 }
