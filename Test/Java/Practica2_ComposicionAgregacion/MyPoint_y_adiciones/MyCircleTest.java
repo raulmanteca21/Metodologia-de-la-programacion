@@ -82,4 +82,5 @@ class MyCircleTest {
         double expectedDistance = c1.getCenter().distance(c2.getCenter());
         assertEquals(expectedDistance, c1.distance(c2), 0.0001);
     }
+
 }
