@@ -46,6 +46,7 @@ public class Invoice {
     public String toString() {
         return "Invoice[id="+ this.id+", customer="+ customer+",amount="+this.amount+"]";
     }
+
 }
 
 
