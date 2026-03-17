@@ -1,4 +1,4 @@
-package Practica1_Clases;
+package Practica1_Clases.Rectangle;
 
 public class Rectangle {
     private float length;

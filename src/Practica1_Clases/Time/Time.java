@@ -1,4 +1,4 @@
-package Practica1_Clases;
+package Practica1_Clases.Time;
 
 public class Time {
     private int hour;

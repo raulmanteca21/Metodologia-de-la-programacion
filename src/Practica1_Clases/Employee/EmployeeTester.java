@@ -1,4 +1,4 @@
-package Practica1_Clases;
+package Practica1_Clases.Employee;
 
 public class EmployeeTester {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Practica1_Clases;
+package Practica1_Clases.Date;
 
 public class Date {
     private int day;

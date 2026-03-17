@@ -1,4 +1,4 @@
-package Practica1_Clases;
+package Practica1_Clases.Ball;
 
 public class Ball {
     private float x;

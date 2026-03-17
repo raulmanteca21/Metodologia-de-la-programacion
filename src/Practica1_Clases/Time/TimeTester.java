@@ -1,4 +1,4 @@
-package Practica1_Clases;
+package Practica1_Clases.Time;
 
 public class TimeTester {
     public static void main(String[] args) {

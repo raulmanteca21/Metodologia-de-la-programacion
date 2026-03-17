@@ -1,4 +1,4 @@
-package Practica1_Clases;
+package Practica1_Clases.Ball;
 
 public class BallTester {
     public static void main(String[] args) {
