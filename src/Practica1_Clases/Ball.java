@@ -43,5 +43,4 @@ public class Ball {
     //----------------------------------------------
     //formato de salida de texto
     public String toString(){return "Ball[("+x+","+y+"),speed=("+xDelta+","+yDelta+")]";}
-
 }

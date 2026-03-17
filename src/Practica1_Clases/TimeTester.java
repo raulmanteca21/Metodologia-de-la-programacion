@@ -23,4 +23,5 @@ public class TimeTester {
         System.out.println(t1.previousSecond());
         System.out.println(t1.previousSecond().previousSecond());
     }
+
 }

@@ -35,5 +35,6 @@ public class Date {
     //"0" rellena los huecos vacíos con 0
     //"2" reserva 2 espacios
     //"d" se refiere al tipo de dato (decimal en este caso)
+
 }
 
