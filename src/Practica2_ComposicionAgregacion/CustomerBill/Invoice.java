@@ -5,7 +5,7 @@ public class Invoice {
     private Customer customer;
     private double amount;
 
-    Invoice(int id, Customer customer, double amount){
+    public Invoice(int id, Customer customer, double amount){
         this.id = id;
         this.customer = customer;
         this.amount = amount;
@@ -44,8 +44,9 @@ public class Invoice {
 
     @Override
     public String toString() {
-        return "Invoice[id="+ this.id+"customer="+ customer+",amount="+this.amount+"]";
+        return "Invoice[id="+ this.id+", customer="+ customer+",amount="+this.amount+"]";
     }
+
 }
 
 
