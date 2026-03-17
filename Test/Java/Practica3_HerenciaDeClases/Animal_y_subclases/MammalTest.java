@@ -8,5 +8,7 @@ class MammalTest {
 
     @Test
     void testToString() {
+        Mammal m = new Mammal("Osbaldo");
+        assertEquals("Mammal[Animal[name=Osbaldo]]", m.toString());
     }
 }
