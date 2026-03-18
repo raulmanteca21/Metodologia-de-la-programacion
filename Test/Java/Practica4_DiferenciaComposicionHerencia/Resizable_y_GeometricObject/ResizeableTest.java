@@ -8,5 +8,10 @@ class ResizeableTest {
 
     @Test
     void resize() {
+        Resizeable resizeable = new ResizableCircle(10);
+        resizeable.resize(50);
+
+        ResizableCircle circle = (ResizableCircle) resizeable;
+        assertEquals("ResizableCircle[Circle[radius= 5.0]]", circle.toString());
     }
 }
